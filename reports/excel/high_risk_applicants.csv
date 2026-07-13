@@ -1,0 +1,4 @@
+Applicant_ID,Income,Debt,Credit_Score,Defaulted,Debt_to_Income,Risk_Flag,Decision
+A006,52000,26000,640,1,0.5,High,Review
+A002,35000,18000,610,1,0.5142857142857142,High,Review
+A004,41000,22000,580,1,0.5365853658536586,High,Decline
