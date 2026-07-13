@@ -1,5 +1,17 @@
 # Excel Credit Risk Prototype
 
-This workbook uses a small synthetic dataset to demonstrate Excel tables, formulas, conditional formatting, KPI calculations, XLOOKUP, and a debt-to-income chart.
+This workbook demonstrates a simple credit-risk workflow using synthetic applicant data.
 
-The 650 credit-score threshold is illustrative and does not represent a real lending policy.
+## What it includes
+
+- Excel table with applicant income, debt, credit score, and default status
+- Debt-to-income calculation
+- Risk flag based on a configurable credit-score threshold
+- Rule-based lending decision: Approve, Review, or Decline
+- KPI summary for default rate, high-risk defaults, and decision counts
+- Conditional formatting for risk and decision outcomes
+- Charts for debt-to-income and decision distribution
+
+## Notes
+
+The dataset is synthetic and used for learning purposes only. The thresholds are illustrative and do not represent a real lending policy.
