@@ -1,0 +1,4 @@
+Decision,applicant_count,average_credit_score,average_dti
+Approve,3,716.67,0.208
+Decline,1,580.0,0.537
+Review,2,625.0,0.507
