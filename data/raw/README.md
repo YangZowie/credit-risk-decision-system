@@ -2,7 +2,7 @@
 
 This folder is reserved for original public credit-risk datasets.
 
-Planned dataset:
+Selected dataset:
 - South German Credit
 
 Source:
@@ -14,6 +14,11 @@ Dataset notes:
 - 21 variables
 - Target variable: credit_risk
 - Task: credit risk classification
+
+Why this dataset:
+- It is a corrected version of the widely used German Credit dataset.
+- It provides clearer coding information and background documentation.
+- It is suitable for credit risk analysis, classification, and model evaluation.
 
 License:
 - Creative Commons Attribution 4.0 International (CC BY 4.0)
