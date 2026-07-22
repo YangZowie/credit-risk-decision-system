@@ -1,0 +1,4 @@
+loan_amount_segment,applicant_count,bad_credit_rate,average_loan_amount
+Low Amount,432,0.28,1266.801
+Medium Amount,380,0.266,3129.661
+High Amount,188,0.415,8163.399
