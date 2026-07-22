@@ -15,6 +15,16 @@ The summary table is saved as:
 
 - `credit_risk_summary.csv`
 
+## Visualizations
+
+### Average Loan Amount by Credit Risk
+
+![Average Loan Amount by Credit Risk](average_loan_amount_by_credit_risk.png)
+
+### Average Loan Duration by Credit Risk
+
+![Average Loan Duration by Credit Risk](average_duration_by_credit_risk.png)
+
 ## Notes
 
 The analysis uses the cleaned dataset:
