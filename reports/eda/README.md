@@ -8,12 +8,16 @@ This folder contains exploratory analysis results for the South German Credit da
 - 70% of applicants are classified as good credit and 30% as bad credit.
 - Bad-credit applicants requested higher loan amounts on average than good-credit applicants: 3,938.13 vs 2,985.44.
 - Bad-credit applicants had longer loan durations on average than good-credit applicants: 24.86 months vs 19.21 months.
+- High-amount loans had the highest bad-credit rate among loan amount segments: 41.5%.
+- Long-term loans had the highest bad-credit rate among duration segments: 44.3%.
 
 ## Summary Table
 
-The summary table is saved as:
+The summary tables are saved as:
 
 - `credit_risk_summary.csv`
+- `loan_amount_segment_summary.csv`
+- `duration_segment_summary.csv`
 
 ## Visualizations
 
